@@ -1,0 +1,38 @@
+_repo: Augustus-Carp-Esq-by-Himself-Being-the-Autobiography-of-a-Really-Good-Man_64587
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Blood, Marjorie (Artist)
+    alias: Robin (Artist)
+    gutenberg_agent_id: '52971'
+    url: http://www.gutenberg.org/2009/agents/52971
+creator:
+  author:
+    agent_name: Bashford, H. H. (Henry Howarth), Sir
+    aliases:
+    - Bashford, Henry
+    - Bashford, Henry Howarth, Sir
+    birthdate: 1880
+    deathdate: 1961
+    gutenberg_agent_id: '37411'
+    url: http://www.gutenberg.org/2009/agents/37411
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Howarth_Bashford
+description: ''
+gutenberg_issued: '2021-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64587'
+  lccn: '24026745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Satire'
+- GITenberg
+title: 'Augustus Carp, Esq., by Himself: Being the Autobiography of a Really Good
+  Man'
+url: http://www.gutenberg.org/ebooks/64587
