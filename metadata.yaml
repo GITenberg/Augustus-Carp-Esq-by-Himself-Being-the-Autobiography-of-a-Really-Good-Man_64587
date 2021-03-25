@@ -6,6 +6,9 @@ contributor:
     alias: Robin (Artist)
     gutenberg_agent_id: '52971'
     url: http://www.gutenberg.org/2009/agents/52971
+covers:
+- cover_type: archival
+  image_path: 64587-h/images/cover.jpg
 creator:
   author:
     agent_name: Bashford, H. H. (Henry Howarth), Sir
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37411
     wikipedia: https://en.wikipedia.org/wiki/Henry_Howarth_Bashford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64587#Augustus-Carp-Esq-by-Himself-Being-the-Autobiography-of-a-Really-Good-Man
 gutenberg_issued: '2021-02-18'
 gutenberg_type: Text
 identifiers:
